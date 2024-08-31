@@ -11,7 +11,9 @@ Unity 1週間ゲームジャム お題「かえす」
 - [R3](https://github.com/Cysharp/R3)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [LitMotion](https://github.com/AnnulusGames/LitMotion)
+- [RandomExtensions](https://github.com/AnnulusGames/RandomExtensions)
 - [UnitGenerator](https://github.com/Cysharp/UnitGenerator)
+- [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)
 
 ## Movie
 
